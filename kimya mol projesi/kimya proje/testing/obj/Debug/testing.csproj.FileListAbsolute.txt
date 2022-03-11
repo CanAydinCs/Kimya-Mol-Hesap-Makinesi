@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\testing\testing\bin\Debug\testing.exe.config
+C:\Users\ASUS\Desktop\testing\testing\bin\Debug\testing.exe
+C:\Users\ASUS\Desktop\testing\testing\bin\Debug\testing.pdb
+C:\Users\ASUS\Desktop\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\testing\testing\obj\Debug\testing.Form1.resources
+C:\Users\ASUS\Desktop\testing\testing\obj\Debug\testing.Properties.Resources.resources
+C:\Users\ASUS\Desktop\testing\testing\obj\Debug\testing.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\testing\testing\obj\Debug\testing.exe
+C:\Users\ASUS\Desktop\testing\testing\obj\Debug\testing.pdb
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\bin\Debug\testing.exe.config
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\bin\Debug\testing.exe
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\bin\Debug\testing.pdb
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\obj\Debug\testing.Form1.resources
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\obj\Debug\testing.Properties.Resources.resources
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\obj\Debug\testing.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\obj\Debug\testing.exe
+C:\Users\ASUS\Desktop\testing\kimya proje\testing\obj\Debug\testing.pdb
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\bin\Debug\testing.exe.config
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\bin\Debug\testing.exe
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\bin\Debug\testing.pdb
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\obj\Debug\testing.csprojAssemblyReference.cache
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\obj\Debug\testing.Form1.resources
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\obj\Debug\testing.Properties.Resources.resources
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\obj\Debug\testing.csproj.GenerateResource.cache
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\obj\Debug\testing.exe
+G:\Eski Dosyalar\kimya mol projesi\kimya proje\testing\obj\Debug\testing.pdb
